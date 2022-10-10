@@ -1,1 +1,2 @@
-#### Hi
+## Center for Computational and Data Sciences
+CCDS is a research institute at Independent University, Bangladesh (IUB) that focuses on developing innovative computational, artificial intelligence, and data science technologies and their applications in many sectors. The center is led by Prof. Dr. M. Ashraful Amin, Associate Professor, Department of Computer Science and Engineering. The center features a team of researchers and students working on numerous projects in the disciplines of data science and machine learning. The center is also working on several projects in computer vision, natural language processing, and deep understanding.
